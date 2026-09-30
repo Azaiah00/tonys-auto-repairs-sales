@@ -672,3 +672,8 @@ fieldset.field { border: 0; padding: 0; margin: 0 0 1.15rem; min-width: 0; }
 .brand img{height:50px;width:auto;display:block}
 @media (min-width:900px){.brand img{height:58px}}
 .site-footer .brand img{height:72px}
+
+/* Fix (30 Sep 2026): stable scrolling on phones. The page can only move up and down; sideways panning is off.
+   Only the viewport (html) clips sideways overflow; body is left unclipped so iPhone Safari keeps drawing the whole page. */
+html { overflow-x: hidden; touch-action: pan-y pinch-zoom; }
+body { overflow-x: visible !important; }
