@@ -1,4 +1,4 @@
-# Netlify config for tonysautorva.com (static site, no build step)
+# Netlify config for tonys-auto-repairs-sales.netlify.app (static site, no build step)
 [build]
   publish = "."
 

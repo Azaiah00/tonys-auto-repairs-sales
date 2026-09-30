@@ -6,7 +6,7 @@
 - Name: Tony's Auto Repairs & Sales (legal: Tony's Auto Repairs & Sales LLC; also known as Tony's Auto Repair)
 - Address: 5258 Hull Street Rd, Richmond, VA 23224 (Hull Street corridor, Southside Richmond)
 - Phone: (804) 233-5599 (call or text)
-- Website: https://tonysautorva.com/ (Spanish: https://tonysautorva.com/es/)
+- Website: https://tonys-auto-repairs-sales.netlify.app/ (Spanish: https://tonys-auto-repairs-sales.netlify.app/es/)
 - Facebook: https://www.facebook.com/hullstreettony/
 - Directions: https://www.google.com/maps/search/?api=1&query=5258+Hull+Street+Rd%2C+Richmond%2C+VA+23224
 - Languages: English and Spanish
@@ -30,7 +30,7 @@
 - Repairs: quoted with a free estimate before work begins
 
 ## How to book
-- Call (804) 233-5599, text the same number, or send the contact form at https://tonysautorva.com/contact.html
+- Call (804) 233-5599, text the same number, or send the contact form at https://tonys-auto-repairs-sales.netlify.app/contact.html
 
 ## Reviews
 - Google rating 4.3 from 116 reviews
@@ -45,9 +45,9 @@
 - Where do I park? In the lot in front of the shop at 5258 Hull Street Rd.
 
 ## Pages
-- Home: https://tonysautorva.com/
-- Services: https://tonysautorva.com/services.html
-- Tires: https://tonysautorva.com/tires.html
-- Cars for sale: https://tonysautorva.com/cars.html
-- Contact: https://tonysautorva.com/contact.html
-- Español: https://tonysautorva.com/es/
+- Home: https://tonys-auto-repairs-sales.netlify.app/
+- Services: https://tonys-auto-repairs-sales.netlify.app/services.html
+- Tires: https://tonys-auto-repairs-sales.netlify.app/tires.html
+- Cars for sale: https://tonys-auto-repairs-sales.netlify.app/cars.html
+- Contact: https://tonys-auto-repairs-sales.netlify.app/contact.html
+- Español: https://tonys-auto-repairs-sales.netlify.app/es/

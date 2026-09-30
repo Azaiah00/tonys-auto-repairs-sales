@@ -29,7 +29,7 @@ assets/css/fonts.css   @font-face (Oswald, Source Sans 3; Fontsource, OFL)
 assets/css/site.css    all styles
 assets/js/site.js      menu, EN/ES toggle, rolling tire, reveals, form
 assets/fonts/          self-hosted woff2
-assets/img/            photos (.webp), og.jpg, favicons
+assets/img/            photos (.webp), share.jpg, favicons
 es/                    Spanish mirror
 robots.txt, sitemap.xml, llms.txt, site.webmanifest, netlify.toml
 ```

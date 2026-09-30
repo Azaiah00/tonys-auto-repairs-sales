@@ -35,3 +35,7 @@ Confirm every item below with the owner (Tony) before launch.
 
 ## Neighbor note (internal only)
 - Teo Customs (body shop) is across the street at 5255 Hull St. Couture House built their spec site too. It is not mentioned on this site.
+
+## Live preview domain (updated 28 Sep 2026)
+The site is live at https://tonys-auto-repairs-sales.netlify.app/ and every canonical URL, Open Graph/Twitter tag, hreflang, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this exact address.
+When the owner's own domain (tonysautorva.com) is connected in Netlify, find-and-replace `tonys-auto-repairs-sales.netlify.app` with `tonysautorva.com` across the .html/.xml/.txt/.toml/.webmanifest files, then redeploy.
